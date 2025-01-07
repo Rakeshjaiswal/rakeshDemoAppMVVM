@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RakeshDemoTestRetrofit</string>
+    <string name="login_with_fingerprint">Login with Fingerprint</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="app_logo">App Logo</string>
+    <string name="username">Username</string>
+    <string name="transactions">Transactions</string>
+    <string name="logout">Logout</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="amount">Amount</string>
+</resources>
